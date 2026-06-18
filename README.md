@@ -90,7 +90,7 @@ Desenvolvedor **Back-End** focado em **Python** e **Java**, construindo **APIs R
 <div align="left" style="max-width:720px;margin:0 auto;">
 <ul style="list-style:none;padding:0;margin:0;">
   <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
-    <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/SEU-USUARIO">linkedin.com/in/SEU-USUARIO</a> <!-- 👉 troque pelo seu link -->
+    <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/kau%C3%A3lourenco/">linkedin.com/in/SEU-USUARIO</a> 
   </li>
   <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
     <strong>E-mail</strong>: <a href="mailto:kaualourenco8@gmail.com">kaualourenco8@gmail.com</a>
